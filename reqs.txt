@@ -1,0 +1,31 @@
+*****BACKEND*****
+Shopping items:
+  id
+  name
+  image
+  cost
+  manufacturer
+
+Steps: 
+1. Create and connect to the database
+- table for items
+- table for values
+
+2. Create api calls
+- Add item (input = name, image, cost, manufacturer)
+- Remove item (input = id)
+- Get items (id)
+- Search items
+
+3. Make sure it all runs great
+
+*****FRONTEND*****
+All items page
+- includes search bar at the top
+- Navbar just has Bob and the search bar
+
+
+View one item
+- Shows all item properties
+- Back button to go back to all
+
